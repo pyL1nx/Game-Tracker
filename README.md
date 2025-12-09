@@ -4,7 +4,7 @@ Game Tracker is a lightweight Windows application that records and displays tota
 
 This repository provides the compiled Windows build for end-users.
 
-https://ik.imagekit.io/ru2ogjwqt/Screenshot%202025-12-09%20165110.png?updatedAt=1765280201994
+![Main UI](https://ik.imagekit.io/ru2ogjwqt/Screenshot%202025-12-09%20165110.png?updatedAt=1765280201994)
 
 # Features
 Automatic Playtime Tracking
