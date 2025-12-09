@@ -4,7 +4,9 @@ Game Tracker is a lightweight Windows application that records and displays tota
 
 This repository provides the compiled Windows build for end-users.
 
-Features
+https://ik.imagekit.io/ru2ogjwqt/Screenshot%202025-12-09%20165110.png?updatedAt=1765280201994
+
+# Features
 Automatic Playtime Tracking
 
 Detects when added games start and stop running.
@@ -37,7 +39,7 @@ All data is saved on the user's machine.
 
 No internet connection or account required.
 
-Download
+# Download
 
 The latest Windows build is available in the Releases section of this repository.
 
