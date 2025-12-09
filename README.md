@@ -7,7 +7,8 @@ This repository provides the compiled Windows build for end-users.
 ![Main UI](https://ik.imagekit.io/ru2ogjwqt/Screenshot%202025-12-09%20165110.png?updatedAt=1765280201994)
 
 # Features
-Automatic Playtime Tracking
+
+## Automatic Playtime Tracking
 
 Detects when added games start and stop running.
 
@@ -15,7 +16,7 @@ Records total playtime and session counts.
 
 Updates statistics in real time.
 
-Modern User Interface
+## Modern User Interface
 
 Full-width game cards with extracted high-resolution game icons.
 
@@ -25,7 +26,7 @@ Search functionality.
 
 Favorite sorting system.
 
-Background Operation
+## Background Operation
 
 Minimizes to the system tray.
 
@@ -33,7 +34,7 @@ Continues tracking while minimized.
 
 Can be reopened or fully closed through tray controls.
 
-Local Data Storage
+## Local Data Storage
 
 All data is saved on the user's machine.
 
@@ -45,13 +46,14 @@ The latest Windows build is available in the Releases section of this repository
 
 Download the ZIP archive, extract it, and launch:
 
+```
 main.exe
-
+```
 
 Do not remove any other files from the extracted folder.
 They are required for the application to run.
 
-How to Use
+# How to Use
 
 Download and extract the release ZIP.
 
@@ -67,19 +69,19 @@ Right-click the tray icon to reopen or quit.
 
 Playtime and session history remain saved even if the game is uninstalled or temporarily removed.
 
-System Requirements
+# System Requirements
 
 Windows 10 or Windows 11
 
 No additional installations required
 
-Project Notes
+# Project Notes
 
 This repository contains only the compiled executable for end users.
 Source code is not included in this distribution.
 If source access is needed, it can be provided separately.
 
-License
+# License
 
 Distributed as a binary-only release for end-user use.
 Redistribution of the compiled application must retain this notice.
